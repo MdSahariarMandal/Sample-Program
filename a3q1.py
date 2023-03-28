@@ -1,0 +1,1 @@
+remarks=good if int(marks<=70) else average
